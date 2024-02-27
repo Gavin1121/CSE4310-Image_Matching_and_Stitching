@@ -30,7 +30,7 @@ Below are the sample images used for the RANSAC algorithm.
 ![affine-stitching](./RANSAC_report_images/affine-stitching.png "affine-stitching.png")
 
 **Example of Inconsistency**
-![affine-inconsistency](./RANSAC_report_images/affine-stitching.png "affine-inconsistency.png")
+![affine-inconsistency](./RANSAC_report_images/affine-inconsistency.png "affine-inconsistency.png")
 
 ### Projective Model
 
